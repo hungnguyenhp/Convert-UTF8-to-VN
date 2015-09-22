@@ -1,6 +1,6 @@
 ## Convert-UTF8-to-VN
 
-@author info@nguyenanhung.com
+@author Hung Nguyen
 
 @target Chuyển đổi 1 số ký tự UTF8 sang ký tự tiếng Việt
 
